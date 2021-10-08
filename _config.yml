@@ -1,14 +1,2 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>Sziasztok</title>
-</head>
-<body>
 
-<h1>Zene</h1>
-<a href="https://www.youtube.com/watch?v=gBoEQvNKN_Q">Zene
-</a>
-<img src="https://apkplz.net/storage/images/com/bigbro/huawei/music/com.bigbro.huawei.music_1.png">
-
-</body>
-</html>
+theme: jekyll-theme-cayman
